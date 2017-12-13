@@ -1,10 +1,10 @@
 ## Sobre el proyecto
 
-Este proyecto consiste en automatizar algunas de las funciones que se realiza dentro del departamento de sistemas.
+El objetivo general del proyecto, consiste en automatizar algunas de las funciones que se realiza dentro del departamento de sistemas.
 
 ## Aprendiendo Laravel
 
-Este proyecto esta basdo en un podereso framework llamado laravel. El lenguaje utilizado para dicho framework es php.
+Este proyecto esta basdo en un podereso framework llamado laravel. Dicho framework esta basado en el lenguaje de programacion php.
 Si deseas aprender mas sobre este framework, te invito a leer la [documentation](https://laravel.com/docs).
 
 ## Licencia
